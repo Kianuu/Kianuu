@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Environmental Toxicology.<br>However I'm looking to learn Computational Toxicology and other <br>computational methods. 
+Electrical Engineering | C & Python | Graphics Engines & Math based programming are cool. 
 
 
 # 💻 Tech Stack: (I know or want to learn)
